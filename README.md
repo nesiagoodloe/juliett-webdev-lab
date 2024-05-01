@@ -8,7 +8,7 @@ This web application that allows you to convert text into NATO phonetic alphabet
 - Converts text into NATO phonetic alphabet or civilian phonetic alphabet.
 - Option to clear input and output.
 
-## Usage
+## What to do
 
 1. Enter the text you want to convert.
 2. Select the desired phonetic alphabet (NATO or civilian).
